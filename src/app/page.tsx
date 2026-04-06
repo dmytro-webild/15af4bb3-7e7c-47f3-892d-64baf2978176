@@ -74,15 +74,15 @@ export default function LandingPage() {
           imageAlt: "Streetwear enthusiast in urban setting",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-deluxe-ski-complex-winter_482257-76604.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/empty-deluxe-ski-complex-winter_482257-76604.jpg?_wi=1",
           imageAlt: "Premium sneaker detail shot",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/suitcase-packed-with-travel-paraphernalia_23-2149433945.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/suitcase-packed-with-travel-paraphernalia_23-2149433945.jpg?_wi=1",
           imageAlt: "Limited edition footwear display",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-woman-sitting-outdoors_23-2148950600.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-woman-sitting-outdoors_23-2148950600.jpg?_wi=1",
           imageAlt: "Luxury boutique sneaker setup",
         },
       ]}
@@ -104,7 +104,7 @@ export default function LandingPage() {
           name: "Air Jordan 1 Retro",
           price: "€349",
           variant: "Classic Blue",
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-deluxe-ski-complex-winter_482257-76604.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/empty-deluxe-ski-complex-winter_482257-76604.jpg?_wi=2",
           imageAlt: "Air Jordan 1 Retro",
         },
         {
@@ -112,7 +112,7 @@ export default function LandingPage() {
           name: "Yeezy Boost 350",
           price: "€299",
           variant: "Earth Tone",
-          imageSrc: "http://img.b2bpic.net/free-photo/suitcase-packed-with-travel-paraphernalia_23-2149433945.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/suitcase-packed-with-travel-paraphernalia_23-2149433945.jpg?_wi=2",
           imageAlt: "Yeezy Boost 350",
         },
         {
@@ -120,7 +120,7 @@ export default function LandingPage() {
           name: "Nike Dunk Low",
           price: "€249",
           variant: "Neutral Grey",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-woman-sitting-outdoors_23-2148950600.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-woman-sitting-outdoors_23-2148950600.jpg?_wi=2",
           imageAlt: "Nike Dunk Low",
         },
         {
